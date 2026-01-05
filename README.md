@@ -127,4 +127,3 @@ We report standard traffic forecasting metrics:
 
 This project builds upon common practices and benchmarks in spatiotemporal traffic forecasting research.
 
-```
